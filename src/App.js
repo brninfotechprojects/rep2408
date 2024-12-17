@@ -10,6 +10,9 @@ function App() {
       <h2>Allu Arjun</h2>
       <img src="./alluarjun/aaPoster.jpg"></img>
       <img src="./rashmika/rashmikaPoster.jpg"></img>
+    <h1>This line is added by Kranthi</h1>
+    <h1>This line is added by Santoshi</h1>
+    <h1>This line is added by Madhavi</h1>
     </div>
   );
 }
