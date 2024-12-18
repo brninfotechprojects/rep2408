@@ -15,6 +15,7 @@ function App() {
       <h1>This line is added by Madhavi</h1>
       <h1>This line is added by Manjunadh</h1>
       <img src="./saipallavi/saipallavi.webp"></img>
+      <h2>edfghj</h2>
     </div>
   );
 }
